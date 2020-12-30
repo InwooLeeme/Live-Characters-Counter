@@ -1,1 +1,43 @@
 @import "./reset.css";
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(#d63031, #74b9ff);
+}
+
+main {
+  width: 100%;
+  height: 100vh;
+}
+
+.container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  font-size: 2rem;
+  margin: 1rem 0;
+  color: #ffffff;
+}
+
+textarea {
+  width: 50%;
+  height: 50%;
+  font-size: 2rem;
+  border: none;
+  outline: none;
+}
+
+.count {
+  font-size: 2rem;
+  margin: 1rem 0;
+  color: #ffffff;
+}
