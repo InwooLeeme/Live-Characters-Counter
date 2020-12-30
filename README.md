@@ -6,10 +6,10 @@ Making Live Characters Counters using html,css and Vanilla Javascript.
 
 - [x] Make html form.
 - [x] Some styling in the main page.
-- [ ] Add js function that count characters.
+- [x] Add js function that count characters.
 
 # Work Flow
 
 - [x] Make html form.
 - [x] Some styling in the main page.
-- [ ] Add js function that count characters.
+- [x] Add js function that count characters.
